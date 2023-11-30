@@ -1,3 +1,3 @@
-# sportsRec
+# twitchRec
 
-Please download `endomondoHR.json.gz` and `endomondoMeta.json.gz` from https://sites.google.com/eng.ucsd.edu/fitrec-project/home and add to local directory manually. Size of files too big for GitHub.
+Please download `100k_a.csv` from https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/twitch/ and add to local directory manually. Size of files too big for GitHub.
